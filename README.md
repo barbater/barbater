@@ -2,7 +2,7 @@
 
 ## I am beginer QA engineer
 
-About me
+Hi, I'm a beginer QA engineer. I never give up because this is my ninja way.
 
 ## My resume
 
@@ -12,7 +12,7 @@ About me
 
 [Link to my diplomas and certificates](https://drive.google.com/drive/folders/13KCTI081lk6HgiLmjiIRYEQZOsozUpz7?usp=sharing)
 
-### Skills and tools
+## Skills and tools
 
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css)
@@ -23,15 +23,16 @@ About me
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)
 ![SQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
 
-### Testing Documentation
+## Testing Documentation
 
-[Checklists](https://github.com/barbater/Checklists.git)
-[Test-Cases](https://github.com/barbater/Test-Cases.git)
-[Bug-Reports](https://github.com/barbater/Bug-Reports.git)
-[SQL Queries](https://github.com/barbater/SQL-Queries.git)
-[Postman Collection](https://github.com/barbater/Postman_Collection.git)
-
-### Follow me
+<ul>
+[Checklists](https://github.com/barbater/Checklists.git)<br>
+[Test-Cases](https://github.com/barbater/Test-Cases.git)<br>
+[Bug-Reports](https://github.com/barbater/Bug-Reports.git)<br>
+[SQL Queries](https://github.com/barbater/SQL-Queries.git)<br>
+[Postman Collection](https://github.com/barbater/Postman_Collection.git)<br>
+</ul>
+## Follow me
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/barbater)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/barbater/)
