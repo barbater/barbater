@@ -1,6 +1,6 @@
 [![Header](https://github.com/barbater/barbater/blob/main/assets/bugs.png)](https://www.linkedin.com/in/barbater/)
 
-## I am beginer QA engineer.
+## I am beginer QA engineer
 
 About me
 
@@ -23,11 +23,16 @@ About me
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)
 ![SQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
 
-Testing Documentation
+### Testing Documentation
+
+[Checklists](https://github.com/barbater/Checklists.git)
+[Test-Cases](https://github.com/barbater/Test-Cases.git)
+[Bug-Reports](https://github.com/barbater/Bug-Reports.git)
+[SQL Queries](https://github.com/barbater/SQL-Queries.git)
+[Postman Collection](https://github.com/barbater/Postman_Collection.git)
 
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/barbater)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/barbater/)
-[![GIThub](https://img.shields.io/badge/GIThub-black?style=for-the-badge&logo=github)](https://github.com/barbater)
 [![HabrCareer](https://img.shields.io/badge/HabrCareer-black?style=for-the-badge&logo=HabrCareer)](https://career.habr.com/barbater)
