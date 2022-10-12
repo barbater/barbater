@@ -28,7 +28,7 @@ Hi, I'm a beginer QA engineer. I never give up because this is my ninja way.
 [Checklists](https://github.com/barbater/Checklists.git)<br>
 [Test-Cases](https://github.com/barbater/Test-Cases.git)<br>
 [Bug-Reports](https://github.com/barbater/Bug-Reports.git)<br>
-[SQL Queries](https://github.com/barbater/SQL-Queries.git)<br>
+[SQL Queries](https://github.com/barbater/SQL_Queries.git)<br>
 [Postman Collection](https://github.com/barbater/Postman_Collection.git)<br>
 
 ## Follow me
