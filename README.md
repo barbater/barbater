@@ -21,4 +21,9 @@ Link to my resume()
 
 Testing Documentation
 
-Follow me
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/barbater)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/barbater/)
+[![GIThub](https://img.shields.io/badge/GIThub-black?style=for-the-badge&logo=github)](https://github.com/barbater)
+[![HabrCareer](https://img.shields.io/badge/HabrCareer-black?style=for-the-badge&logo=HabrCareer)](https://career.habr.com/barbater)
