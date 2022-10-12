@@ -36,3 +36,5 @@ Hi, I'm a beginer QA engineer. I never give up because this is my ninja way.
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/barbater)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/barbater/)
 [![HabrCareer](https://img.shields.io/badge/HabrCareer-black?style=for-the-badge&logo=HabrCareer)](https://career.habr.com/barbater)
+
+[![Barbater's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbater&show_icons=trueusername=barbater)](https://github.com/anuraghazra/github-readme-stats)
