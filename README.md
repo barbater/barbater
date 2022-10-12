@@ -8,6 +8,10 @@ About me
 
 [Link to my resume](https://spb.hh.ru/applicant/resumes/view?resume=be883c79ff0b378d740039ed1f626744627147)
 
+## Diplomas and certificates
+
+[Link to my diplomas and certificates](https://drive.google.com/drive/folders/13KCTI081lk6HgiLmjiIRYEQZOsozUpz7?usp=sharing)
+
 ### Skills and tools
 
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html)
