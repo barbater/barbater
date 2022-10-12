@@ -6,7 +6,7 @@ About me
 
 ## My resume
 
-Link to my resume()
+[Link to my resume](https://spb.hh.ru/applicant/resumes/view?resume=be883c79ff0b378d740039ed1f626744627147)
 
 ### Skills and tools
 
