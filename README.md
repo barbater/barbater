@@ -29,7 +29,7 @@ Hi, I'm a beginer QA engineer. I never give up because this is my ninja way.
 [Test-Cases](https://github.com/barbater/Test-Cases.git)<br>
 [Bug-Reports](https://drive.google.com/drive/folders/15hDQNxCIyTR9xmrHh-Pc_wsjFMgSx2MY?usp=sharing)<br>
 [SQL Queries](https://github.com/barbater/SQL_Queries.git)<br>
-[Postman Collection](https://github.com/barbater/Postman_Collection.git)<br>
+[Postman Collection](hhttps://interstellar-spaceship-837325.postman.co/workspace/4faa6ace-dfc8-44a0-b28a-1014dcbb4d2d/collection/23620628-89a8321f-99c7-4a95-b982-16274eada7c2?ctx=documentation)<br>
 
 ## Follow me
 
